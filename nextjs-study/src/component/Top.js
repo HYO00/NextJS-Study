@@ -9,10 +9,10 @@ export default function About() {
           <img
             src="/images/logo.png"
             alt="logo"
-            style={{ display: "block", width: 60 }}
+            style={{ display: "block", width: 80 }}
           />
         </div>
-        <Header as="h1">Hello</Header>
+        <Header as="h1">뚱이</Header>
       </div>
       <Gnb />
     </div>

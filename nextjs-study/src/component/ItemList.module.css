@@ -1,0 +1,14 @@
+.wrap {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+}
+
+.item_img {
+  margin: 0 auto;
+  width: 100px;
+}
+
+.item_name {
+  text-align: center;
+}
